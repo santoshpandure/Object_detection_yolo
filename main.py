@@ -1,7 +1,7 @@
 
 from my_functions import *
 import cv2
-source = 'E:/motorcycle_license_plate-main/vid1.mp4'
+source = 'vid1.mp4'
 
 save_video = True # want to save video? (when video as source)
 show_video=True # set true when using video file
